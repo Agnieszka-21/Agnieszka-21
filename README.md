@@ -7,6 +7,7 @@ Full Stack Software Developer
 I love Python and finding ways to make things work.
 
 * 🌍  I'm based in Dublin
+* 🖥️  See my portfolio at [MyPortfolio](http://agnieszka-21.github.io/portfolio/)
 * ✉️  You can contact me at [agnieszkabialekmusic@gmail.com](mailto:agnieszkabialekmusic@gmail.com)
 * 🧠  I'm learning Django REST framework
 
